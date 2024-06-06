@@ -1,1 +1,1 @@
-# Mysql-30days-practice
+# Mysql-50days-practice
